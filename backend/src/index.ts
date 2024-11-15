@@ -1,6 +1,10 @@
 import { app } from './app';
 import { initDB, cleanupDB } from './services/db/sqlite/sqliteDB';
-
+import {
+    logger,
+    registerLogger,
+    SampleServerLogger
+} from './services/logging/logger';
 
 registerLogger(new SampleServerLogger());
 initDB();
