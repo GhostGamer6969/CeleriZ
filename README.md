@@ -42,8 +42,8 @@ To run the project locally, you’ll need:
 ### Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/cross-border-payment-system.git
-   cd cross-border-payment-system
+   git clone https://github.com/GhostGamer6969/CeleriZ.git
+   cd CeleriZ
    ```
 
 2. Install dependencies:
